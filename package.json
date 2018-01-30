@@ -1,0 +1,41 @@
+{
+  "name": "oji",
+  "version": "1.0.0",
+  "description": "(◕‿◕) Emoji Maker",
+  "bin": {
+    "oji": "./bin/cli"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "clipboardy": "^1.2.2",
+    "inquirer": "^5.0.1"
+  },
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "rules": {
+      "unicorn/no-process-exit": 0
+    },
+    "esnext": "true"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": "https://github.com/xxczaki/oji",
+  "keywords": [
+    "oji",
+    "emoji",
+    "japanese",
+    "japan",
+    "cli",
+    "lenny",
+    "interactive"
+  ],
+  "author": "Antoni Kepinski <hello@akepinski.me> (https://akepinski.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxczaki/oji/issues"
+  },
+  "homepage": "https://github.com/xxczaki/oji#readme"
+}
