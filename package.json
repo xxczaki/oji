@@ -5,6 +5,7 @@
   "bin": {
     "oji": "./bin/cli"
   },
+  "preferGlobal": "true",
   "dependencies": {
     "chalk": "^2.3.0",
     "clipboardy": "^1.2.2",
