@@ -10,7 +10,7 @@
 
 ## Installation
 
-``` 
+``` bash
 npm i -g oji
 ```
 <a href="https://www.patreon.com/akepinski">
