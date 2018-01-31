@@ -28,6 +28,10 @@ Just type `oji` to start interactive emoji creator!
 - [chalk](https://www.npmjs.com/package/chalk)
 - [xo](https://www.npmjs.com/package/xo)
 
+## Note
+
+Node.js >= 6 is required!
+
 ## License
 
 MIT © [Antoni Kepinski](https://akepinski.me)
