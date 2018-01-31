@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "(◕‿◕) Emoji Maker",
   "bin": {
     "oji": "./bin/cli"
@@ -22,6 +22,9 @@
   },
   "scripts": {
     "test": "xo"
+  },
+  "engines": {
+  	"node": ">=6.0.0"
   },
   "repository": "https://github.com/xxczaki/oji",
   "keywords": [
