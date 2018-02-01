@@ -19,7 +19,7 @@ npm i -g oji
 
 ## Usage
 
-Just type `oji` to start interactive emoji creator!
+Just type `oji` to start interactive emoji creator! Works on every platform :unicorn:
 
 ## npm Dependencies [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/oji/badge.svg)](https://snyk.io/test/github/xxczaki/oji)
 
