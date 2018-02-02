@@ -37,4 +37,4 @@ Node.js >= 6 is required!
 
 MIT © [Antoni Kepinski](https://akepinski.me)
 
-* That is supported by Node.js of course :smile:
+*That is supported by Node.js of course :smile:
