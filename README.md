@@ -7,6 +7,7 @@
   </p>
   
 <p align="center"><img src="https://i.imgur.com/LQSy668.gif" alt="GIF"></p>
+<h5 align="center"><a href="https://www.producthunt.com/posts/oji">Discuss it on Product Hunt! :rocket:</a></h5>
 
 ## Installation
 
