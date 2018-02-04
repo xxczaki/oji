@@ -1,18 +1,4 @@
 #!/usr/bin/env node
 
 require('../lib/');
-const arg = process.argv[2];
-const chalk = require('chalk');
 
-if (arg === '-h' || arg === '--help') {  // Display help message
-	console.log(`
- ${chalk.green('OJI')} - (◕‿◕) Text Emoticon Maker
-
- Usage:
-
- Just type ${chalk.cyan('oji')} to start ${chalk.magenta('an interactive text emoticon creator!')}
-
-
- `);
-	process.exit(1);
-}
