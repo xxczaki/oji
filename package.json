@@ -21,7 +21,7 @@
     "esnext": "true"
   },
   "scripts": {
-    "test": "xo --fix"
+    "test": "xo"
   },
   "engines": {
   	"node": ">=6.0.0"
