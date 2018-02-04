@@ -6,11 +6,11 @@ const chalk = require('chalk');
 
 if (arg === '-h' || arg === '--help') {  // Display help message
 	console.log(`
- ${chalk.green('OJI')} - (◕‿◕) Text Emoji Maker
+ ${chalk.green('OJI')} - (◕‿◕) Text Emoticon Maker
 
  Usage:
 
- Just type ${chalk.cyan('oji')} to start ${chalk.magenta('an interactive text emoji creator!')}
+ Just type ${chalk.cyan('oji')} to start ${chalk.magenta('an interactive text emoticon creator!')}
 
 
  `);
