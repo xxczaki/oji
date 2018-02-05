@@ -9,7 +9,7 @@
   "dependencies": {
     "chalk": "^2.3.0",
     "clipboardy": "^1.2.2",
-    "inquirer": "^5.0.1"
+    "inquirer": "^5.1.0"
   },
   "devDependencies": {
     "xo": "*"
