@@ -33,6 +33,12 @@ Just type `oji` to start interactive emoticon creator! Works on every platform* 
 
 Node.js >= 6 is required!
 
+## Author
+
+[![Antoni Kepinski](https://github.com/xxczaki.png?size=100)](https://akepinski.me)
+---|
+[Antoni Kepinski :rocket:](https://akepinski.me)
+
 ## License
 
 MIT © [Antoni Kepinski](https://akepinski.me)
