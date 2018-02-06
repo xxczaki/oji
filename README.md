@@ -23,6 +23,7 @@ npm i -g oji
 Just type `oji` to start interactive emoticon creator! Works on every platform :unicorn:
 
 ## npm Dependencies [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/oji/badge.svg)](https://snyk.io/test/github/xxczaki/oji)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxxczaki%2Foji.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxxczaki%2Foji?ref=badge_shield)
 
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [clipboardy](https://www.npmjs.com/package/clipboardy)
@@ -42,3 +43,6 @@ Node.js >= 6 is required!
 ## License
 
 MIT © [Antoni Kepinski](https://akepinski.me)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxxczaki%2Foji.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxxczaki%2Foji?ref=badge_large)
