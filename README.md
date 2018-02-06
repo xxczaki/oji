@@ -20,7 +20,7 @@ npm i -g oji
 
 ## Usage
 
-Just type `oji` to start interactive emoticon creator! Works on every platform* :unicorn:
+Just type `oji` to start interactive emoticon creator! Works on every platform :unicorn:
 
 ## npm Dependencies [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/oji/badge.svg)](https://snyk.io/test/github/xxczaki/oji)
 
@@ -42,5 +42,3 @@ Node.js >= 6 is required!
 ## License
 
 MIT © [Antoni Kepinski](https://akepinski.me)
-
-*That is supported by Node.js of course :smile:
