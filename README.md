@@ -42,3 +42,5 @@ Node.js >= 6 is required!
 ## License
 
 MIT © [Antoni Kepinski](https://akepinski.me)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxxczaki%2Foji.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxxczaki%2Foji?ref=badge_large)
