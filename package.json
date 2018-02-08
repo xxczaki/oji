@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "description": "(◕‿◕) Text Emoticon Maker",
   "bin": {
     "oji": "./bin/cli"
