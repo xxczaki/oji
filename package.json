@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "description": "(◕‿◕) Text Emoticon Maker",
   "bin": {
     "oji": "./bin/cli"
@@ -9,7 +9,8 @@
   "dependencies": {
     "chalk": "^2.3.0",
     "clipboardy": "^1.2.2",
-    "inquirer": "^5.1.0"
+    "inquirer": "^5.1.0",
+    "opn": "^5.2.0"
   },
   "devDependencies": {
     "xo": "*"
@@ -24,7 +25,7 @@
     "test": "xo"
   },
   "engines": {
-  	"node": ">=6.0.0"
+    "node": ">=6.0.0"
   },
   "repository": "https://github.com/xxczaki/oji",
   "keywords": [
@@ -34,7 +35,7 @@
     "japan",
     "cli",
     "lenny",
-		"emoticon",
+    "emoticon",
     "interactive"
   ],
   "author": "Antoni Kepinski <hello@akepinski.me> (https://akepinski.me)",
