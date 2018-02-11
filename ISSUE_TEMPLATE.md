@@ -10,9 +10,9 @@
 
 `{Please write here}`
 
-### Your Environment :computer:
-
-- OS: {Please write here}
-- Node.js version: {Please write here}
-- oji version: {Please write here}
+> #### Your Environment :computer:
+>
+> - OS: {Please write here}
+> - Node.js version: {Please write here}
+> - oji version: {Please write here}
 
