@@ -6,7 +6,7 @@
 <p align="center"><a href="https://www.npmjs.com/package/oji"><img src="https://badge.fury.io/js/oji.svg" alt="npm Package"></a>  <a href="https://travis-ci.org/xxczaki/oji"><img src="https://travis-ci.org/xxczaki/oji.svg?branch=master" alt="Build Status"></a> <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO Code Style"></a>
   </p>
   
-<p align="center"><img src="https://i.imgur.com/mfF1Aiy.gif" alt="GIF"></p>
+<p align="center"><img src="https://i.imgur.com/FUaVbLd.gif" alt="GIF"></p>
 <h5 align="center"><a href="https://www.producthunt.com/posts/oji">Discuss it on Product Hunt! :rocket:</a></h5>
 
 ## :floppy_disk: Installation
