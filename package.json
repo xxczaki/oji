@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "description": "(◕‿◕) Text Emoticon Maker",
   "bin": {
     "oji": "./bin/cli"
@@ -10,6 +10,7 @@
     "chalk": "^2.3.0",
     "clipboardy": "^1.2.2",
     "inquirer": "^5.1.0",
+    "log-symbols": "^2.2.0",
     "opn": "^5.2.0"
   },
   "devDependencies": {
