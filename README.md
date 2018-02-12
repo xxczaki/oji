@@ -31,6 +31,7 @@ Just type `oji` to start interactive emoticon creator! Works on every platform :
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [clipboardy](https://www.npmjs.com/package/clipboardy)
 - [opn](https://www.npmjs.com/package/opn)
+- [log-symbols](https://www.npmjs.com/package/log-symbols)
 - [chalk](https://www.npmjs.com/package/chalk)
 - [xo](https://www.npmjs.com/package/xo)
 
