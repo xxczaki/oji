@@ -1,4 +1,4 @@
-### Description :pencil:
+### Issue Description :pencil:
 
 {Please write here}
 
@@ -8,7 +8,11 @@
 
 ### Terminal output :floppy_disk:
 
-`{Please write here}`
+```
+{Please paste it here}
+```
+
+---
 
 > #### Your Environment :computer:
 >
