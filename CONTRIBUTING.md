@@ -35,5 +35,3 @@ When you are creating a pull request:
 * **Explain why this enhancement would be useful**?
 * **Before submitting a code change, check the code style** by running `npm test`.
 * **Check your grammar**!
-
-
