@@ -9,4 +9,3 @@ node_js:
   - "6"
 matrix:
   fast_finish: true
-after_success: oji
