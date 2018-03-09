@@ -15,6 +15,8 @@
 
 ## :floppy_disk: Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xxczaki/oji.svg)](https://greenkeeper.io/)
+
 ``` bash
 npm i -g oji
 ```
