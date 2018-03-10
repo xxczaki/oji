@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "description": "(◕‿◕) Text Emoticon Maker",
   "bin": {
     "oji": "./bin/cli"
@@ -23,7 +23,7 @@
     "esnext": "true"
   },
   "scripts": {
-    "test": "xo --fix"
+    "test": "xo"
   },
   "engines": {
     "node": ">=6.0.0"
