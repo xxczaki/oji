@@ -26,6 +26,12 @@ npm i -g oji
 
 Just type `oji` to start interactive emoticon creator! Works on every platform :unicorn:
 
+### :sparkles: Make it your own! :sparkles:
+
+You can add custom characters for each part by creating an optional `~/.oji` directory in your root path. Add new characters to each section by creating a `~/.oji/{file}.txt` with any of the corresponding filenames:
+
+`'arms_symmetric', 'arms_left', 'bodies_symmetric', 'bodies_left', 'cheeks', 'eyes', 'mouths_noses', 'bodies_right', 'arms_right'`
+
 ## :package: npm Dependencies [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/oji/badge.svg)](https://snyk.io/test/github/xxczaki/oji)
 
 - [inquirer](https://www.npmjs.com/package/inquirer)
