@@ -14,7 +14,7 @@
     "opn": "^5.3.0"
   },
   "devDependencies": {
-    "xo": "*"
+    "xo": ">=0.21.1"
   },
   "xo": {
     "rules": {
