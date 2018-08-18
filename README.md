@@ -48,12 +48,12 @@ Node.js >= 6 is required!
 
 ## :nerd_face: Author
 
-[![Antoni Kepinski](https://github.com/xxczaki.png?size=100)](https://akepinski.me)
+[![Antoni Kepinski](https://github.com/xxczaki.png?size=100)](https://kepinski.me)
 ---|
-[Antoni Kepinski :rocket:](https://akepinski.me)
+[Antoni Kepinski :rocket:](https://kepinski.me)
 
 ## :clipboard: License
 
-MIT © [Antoni Kepinski](https://akepinski.me)
+MIT
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxxczaki%2Foji.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxxczaki%2Foji?ref=badge_large)
