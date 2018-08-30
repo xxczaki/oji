@@ -1,6 +1,6 @@
 {
   "name": "oji",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "(◕‿◕) Text Emoticon Maker",
   "bin": {
     "oji": "./bin/cli"
@@ -9,7 +9,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "clipboardy": "^1.2.3",
-    "inquirer": "^6.0.0",
+    "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
     "opn": "^5.3.0"
   },
@@ -19,14 +19,10 @@
   "xo": {
     "rules": {
       "unicorn/no-process-exit": 0
-    },
-    "esnext": "true"
+    }
   },
   "scripts": {
     "test": "xo"
-  },
-  "engines": {
-    "node": ">=6.0.0"
   },
   "repository": "https://github.com/xxczaki/oji",
   "keywords": [
@@ -39,7 +35,7 @@
     "emoticon",
     "interactive"
   ],
-  "author": "Antoni Kepinski <hello@akepinski.me> (https://akepinski.me)",
+  "author": "Antoni Kepinski <a@kepinski.me> (https://kepinski.me)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xxczaki/oji/issues"
