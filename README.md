@@ -30,27 +30,15 @@ Just type `oji` to start interactive emoticon creator! Works on every platform :
 
 You can add custom characters for each part by creating an optional `~/.oji` directory in your root path. Add new characters to each section by creating a `~/.oji/{file}.txt` with any of the corresponding filenames:
 
-`'arms_symmetric', 'arms_left', 'bodies_symmetric', 'bodies_left', 'cheeks', 'eyes', 'mouths_noses', 'bodies_right' or
-'arms_right'`
-
-## :package: npm Dependencies [![Known Vulnerabilities](https://snyk.io/test/github/xxczaki/oji/badge.svg)](https://snyk.io/test/github/xxczaki/oji)
-
-- [inquirer](https://www.npmjs.com/package/inquirer)
-- [clipboardy](https://www.npmjs.com/package/clipboardy)
-- [opn](https://www.npmjs.com/package/opn)
-- [log-symbols](https://www.npmjs.com/package/log-symbols)
-- [chalk](https://www.npmjs.com/package/chalk)
-- [xo](https://www.npmjs.com/package/xo)
-
-## :warning: Note
-
-Node.js >= 6 is required!
-
-## :nerd_face: Author
-
-[![Antoni Kepinski](https://github.com/xxczaki.png?size=100)](https://kepinski.me)
----|
-[Antoni Kepinski :rocket:](https://kepinski.me)
+* `'arms_symmetric'`
+* `'arms_left'` 
+* `'bodies_symmetric'`
+* `'bodies_left'`
+* `'cheeks'`
+* `'eyes'`
+* `'mouths_noses'`
+* `'bodies_right'`
+* `'arms_right'`
 
 ## :clipboard: License
 
