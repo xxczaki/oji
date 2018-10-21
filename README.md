@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/watch?v=9auOCbH5Ns4"><img src="https://img.shields.io/badge/unicorn-approved-ff69b4.svg" alt="Unicorn Approved"></a>
   </p>
 
-<p align="center"><img src="https://github.com/xxczaki/oji/blob/master/oji.svg" alt="GIF"></p>
+<p align="center"><img src="https://rawcdn.githack.com/xxczaki/oji/master/oji.svg" alt="GIF"></p>
 <h5 align="center"><a href="https://www.producthunt.com/posts/oji">Discuss it on Product Hunt! :rocket:</a></h5>
 
 ## :floppy_disk: Installation
