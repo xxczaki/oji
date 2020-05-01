@@ -11,7 +11,8 @@
     "clipboardy": "^1.2.3",
     "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
-    "opn": "^5.3.0"
+    "opn": "^5.3.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "xo": "*"
@@ -22,7 +23,9 @@
     }
   },
   "scripts": {
-    "test": "xo"
+    "test": "xo",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": "https://github.com/xxczaki/oji",
   "keywords": [
@@ -40,5 +43,6 @@
   "bugs": {
     "url": "https://github.com/xxczaki/oji/issues"
   },
-  "homepage": "https://github.com/xxczaki/oji#readme"
+  "homepage": "https://github.com/xxczaki/oji#readme",
+  "snyk": true
 }
