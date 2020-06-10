@@ -7,7 +7,7 @@
   },
   "preferGlobal": "true",
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^4.1.0",
     "clipboardy": "^1.2.3",
     "inquirer": "^6.2.0",
     "log-symbols": "^2.2.0",
